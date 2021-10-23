@@ -13,7 +13,7 @@ TestScript - RestAssured - BDD - Gherkin syntax <br/>
 ----------------------------------------------------------------------------------------------------
 **Execution Process** <br/>
 
-Clone this project <br/>
+Clone this project: git@github.com:SavitaBachhav/Bitly.git <br/>
 Import this project in eclipse <br/>
 Right click on GETCallBDD.java > Run as TestNG <br/>
 
