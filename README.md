@@ -1,19 +1,19 @@
 **Summary**: 
 
-API Testing for www.bitly.com
+API Testing for www.bitly.com <br/>
 -----------------------------------------------------------------------------------------------------
-**Requirement**:
+**Requirement**: <br/>
 
-Java8
-Opensource Libraries - RestAssured, TestNG
-Maven - for Building project
-TestNG - For tagging and excution
-TestScript - RestAssured - BDD - Gherkin syntax
+Java8 <br/>
+Opensource Libraries - RestAssured, TestNG <br/>
+Maven - for Building project <br/>
+TestNG - For tagging and excution <br/>
+TestScript - RestAssured - BDD - Gherkin syntax <br/>
 
 ----------------------------------------------------------------------------------------------------
-**Execution Process**
+**Execution Process** <br/>
 
-Clone this project
-Import this project in eclipse
-Right click on GETCallBDD.java > Run as TestNG
+Clone this project <br/>
+Import this project in eclipse <br/>
+Right click on GETCallBDD.java > Run as TestNG <br/>
 
